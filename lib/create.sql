@@ -19,4 +19,3 @@ CREATE TABLE pledge (
   user_id INTEGER,
   project_id INTEGER
 )
-
