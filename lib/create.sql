@@ -7,11 +7,11 @@ CREATE TABLE project (
   end_date TEXT
 )
 
-CREATE TABLE user {
+CREATE TABLE user (
   id PRIMARY KEY,
   name TEXT,
   age INTEGER
-}
+)
 
 CREATE TABLE pledge (
   id PRIMARY KEY,
